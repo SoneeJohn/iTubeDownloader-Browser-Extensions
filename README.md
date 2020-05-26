@@ -9,4 +9,7 @@ Web Browser Extension used my iTubeDownloader
 3. Open this [link](chrome://extensions) in Google Chrome
 4. In the top right-hand corner, turn on *Developer mode*, then click *Load unpacked*, select the `iTubeDownloader—Chrome` folder that you’ve downloaded and saved in Step 1 and confirm. 
 
+(See the screenshot and gif below for more visual instructions.)
+
 ![Screenshot](Screenshot.png)
+![Screenshot](Installation.gif)
