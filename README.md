@@ -1,4 +1,4 @@
-# iTubeDownloader Broswer Extensions
+# iTubeDownloader Browser Extensions
 Web Browser Extension used by iTubeDownloader
 
 
